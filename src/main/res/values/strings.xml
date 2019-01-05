@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roulette</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="spin">Spin</string>
+</resources>
